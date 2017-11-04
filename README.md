@@ -12,7 +12,8 @@ News of the Galaxy is a Star Wars podcast
 
 ### Podcast release
 
-- Podcasts released to podcasts.newsofthegalaxy.com
+- Podcasts released to [podcasts.newsofthegalaxy.com](podcasts.newsofthegalaxy.com)
+- [iTunes page](https://itunes.apple.com/us/podcast/news-of-the-galaxy/id1223840330?mt=2)
 
 ### Podcast page release requirements
 
