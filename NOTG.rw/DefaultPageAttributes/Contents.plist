@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Lander</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string></string>
+				<key>MetaDescription</key>
+				<string>News of the Galaxy, a Star Wars Podcast, is a fan based Podcast out of Seattle, Washington and Washington, D.C.</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Content</key>
+						<string>Connor Daniels</string>
+						<key>Name</key>
+						<string>author</string>
+					</dict>
+					<dict>
+						<key>Content</key>
+						<string>News of the Galaxy, a Star Wars Podcast, is a fan based Podcast out of Seattle, Washington and Washington, D.C.</string>
+						<key>Name</key>
+						<string>description</string>
+					</dict>
+					<dict>
+						<key>Content</key>
+						<string>star, wars, star wars, podcast, fan, news of the galaxy, darth, jedi, light side, dark side, wookieepedia,</string>
+						<key>Name</key>
+						<string>keywords</string>
+					</dict>
+					<dict>
+						<key>Content</key>
+						<string>News of the Galaxy</string>
+						<key>Name</key>
+						<string>title</string>
+					</dict>
+				</array>
+				<key>OutputFormat</key>
+				<string>Default</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Lander</key>
+					<array>
+						<string>[+] combo options.Back to Top Button</string>
+						<string>[+] combo options.Banner Image: Show dots grid</string>
+						<string>[+] combo options.Navigation: Uppercase</string>
+						<string>[+] combo options.StyledText+Blog: Fluid image (edge to edge)</string>
+						<string>[+] combo options.Title and Slogan: Dark Shadow</string>
+						<string>Banner Image - Parallax.Apply Parallax (disable in small devices)</string>
+						<string>Banner Image - Vertical masking.MaxHeight 400px</string>
+						<string>BreakPoint: Sidebar.  900 Pixel</string>
+						<string>Google WebFont: Classes + Titles.Raleway</string>
+						<string>Image - Parallax.Apply Parallax (disable in small devices)</string>
+						<string>Image - vertical masking.MaxHeight 400px</string>
+						<string>Loading page - Effects.Fade In</string>
+						<string>Max Width.1000 Pixel</string>
+						<string>Navigation Colors.Navigation - Link</string>
+					</array>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

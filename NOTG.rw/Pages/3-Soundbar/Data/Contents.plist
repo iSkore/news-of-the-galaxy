@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Entries</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string>&lt;div&gt;
+    &lt;p&gt;
+        This is the second episode of The Sound Bar. It is all about Rouge One. This was all recorded on a small portable microphone. The first part of it is the opening night of Rouge One where I when with a friend (Toby) and his dad, my dad, and some friends of my dads and one friend of my dads that looked like Gareth Edwards. The second part is me and four other friends going to Rouge One the next day. Warning, this episode has some more PG-13 language in it. This episode was recorded on 12/15/16 and 12/16/16.
+    &lt;/p&gt;
+&lt;/div&gt;</string>
+						<key>Title</key>
+						<string>sb_episode_2</string>
+						<key>Type</key>
+						<integer>1</integer>
+						<key>URL</key>
+						<string>http://podcasts.newsofthegalaxy.com/sb_episode_2.mp3</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>&lt;div&gt;
+    &lt;p&gt;
+        This is the first episode of The Sound Bar. In this episode Connor interviews &lt;a href="starwars.wikia.com/wiki/Jonathan_Wilkins"&gt;Jonathan Wilkins&lt;/a&gt; the editor of the wonderful magazine Star Wars Insider. Sorry about audio quality in this  episode, I did not have my mic yet. In this episode we talk about what Jonathan Wilkins wanted to be as a kid, how he liked The Force Awakens, if he got to see the movie early, and their exclusives at Star Wars celebration next year. This Episode was record sometime around 2/2/16.
+    &lt;/p&gt;
+&lt;/div&gt;</string>
+						<key>Title</key>
+						<string>sb_episode_1</string>
+						<key>Type</key>
+						<integer>1</integer>
+						<key>URL</key>
+						<string>http://podcasts.newsofthegalaxy.com/sb_episode_1.mp3</string>
+					</dict>
+				</array>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>PageDescription.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver File Sharing Data</string>
+</dict>
+</plist>

@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ArchivePostsEnabled</key>
+				<true/>
+				<key>ArchivePostsPeriod</key>
+				<integer>2</integer>
+				<key>ArchivePostsShowGaps</key>
+				<true/>
+				<key>Categories</key>
+				<array>
+					<dict>
+						<key>ID</key>
+						<integer>1</integer>
+						<key>Name</key>
+						<string>TV &amp; Film</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>2</integer>
+						<key>Name</key>
+						<string>Star Wars</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>3</integer>
+						<key>Name</key>
+						<string>Comedy</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>4</integer>
+						<key>Name</key>
+						<string>Games &amp; Hobbies:
+</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>5</integer>
+						<key>Name</key>
+						<string>Games &amp; Hobbies</string>
+					</dict>
+					<dict>
+						<key>ID</key>
+						<integer>6</integer>
+						<key>Name</key>
+						<string>Technology</string>
+					</dict>
+				</array>
+				<key>CategoriesEnabled</key>
+				<true/>
+				<key>CategoriesSeparatorText</key>
+				<string> | </string>
+				<key>CategoriesTitleText</key>
+				<string>Filed in: </string>
+				<key>CommentSeparatorText</key>
+				<string> | </string>
+				<key>CommentsRSSFeedText</key>
+				<string>Comments Feed</string>
+				<key>CommentsSelectedProviderTag</key>
+				<integer>0</integer>
+				<key>CommentsUserIdentifiers</key>
+				<dict/>
+				<key>CustomITunesTags</key>
+				<dict>
+					<key>Author</key>
+					<string>Connor Daniels</string>
+					<key>Category</key>
+					<string>TV &amp; Film</string>
+					<key>Keywords</key>
+					<string>star, wars, star wars, podcast, fan, news of the galaxy, darth, jedi, light side, dark side, wookieepedia,</string>
+					<key>OwnerEmail</key>
+					<string>newsofthegalaxy@outlook.com</string>
+					<key>OwnerName</key>
+					<string>News of the Galaxy</string>
+					<key>Subtitle</key>
+					<string>A Star Wars Podcast</string>
+					<key>Summary</key>
+					<string>News of the Galaxy, a Star Wars Podcast, is a fan based Podcast out of Seattle, Washington and Washington, D.C.</string>
+				</dict>
+				<key>DateModifier1</key>
+				<string>dd</string>
+				<key>DateModifier2</key>
+				<string>MM</string>
+				<key>DateModifier3</key>
+				<string>yy</string>
+				<key>DateModifier4</key>
+				<string></string>
+				<key>DateSeparatorText1</key>
+				<string>/</string>
+				<key>DateSeparatorText2</key>
+				<string>/</string>
+				<key>DateSeparatorText3</key>
+				<string></string>
+				<key>DateSeparatorText4</key>
+				<string> </string>
+				<key>EnableCommentsInline</key>
+				<true/>
+				<key>EnableCustomiTunesTags</key>
+				<true/>
+				<key>EnablePodcasting</key>
+				<true/>
+				<key>EnableRSS</key>
+				<true/>
+				<key>EnableSmileys</key>
+				<true/>
+				<key>Entries</key>
+				<array>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Keep-Spinning-You-Goofy-Death-Star</string>
+						<key>GUID</key>
+						<string>cdc74d699712a307d4ede50db7606e79</string>
+						<key>ID</key>
+						<integer>37</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast original trilogy godzilla jango fett bounty hunter celebration asteroid field darth vader</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this, the 17th episode of News of the Galaxy podcast, the dudes finally get some diversity on their podcast by bringing on the wonderful Elna Diez to school these chuckle nuts on their Star Wars knowledge, Nick tries to solve all of science, Connor comes down with a podcast crippling illness called "stupid tongue", Jody weighs in on the raging controversy of Porg-gate, Nick starts living the dream, Connor's bits start to get old, and Jody summons a pickle. All that and much much more on the first episode of News of the Galaxy podcast with four people.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>119241792</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_17.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-09-26T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>original</string>
+							<string>trilogy</string>
+							<string>godzilla</string>
+							<string>jango fett</string>
+							<string>bounty hunter</string>
+							<string>celebration</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 17: Keep Spinning You Goofy Death Star</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Porg-One-Out-For-Palpatine</string>
+						<key>GUID</key>
+						<string>b6649825073fae0462a40b970b436784</string>
+						<key>ID</key>
+						<integer>36</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast original trilogy godzilla jango fett bounty hunter celebration asteroid field darth vader</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this 16th episode of News of the Galaxy podcast Nick, Jody, and Connor talk about the new(ish) Rebels season 4 trailer, Connor gets a red card, Nick, well, I can't really remember what Nick did this episode sooo, Jody shows us all the stuff we don't have enough money to buy, Connor tells tales of giant porgs, Jody creates a strange time travel theory about Connor and a Target, and Nick makes some sick burns. All that and more on your Favorite Star Wars podcast that are looking to make a TV show called 3 men in a basement.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>126692352</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_16.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-09-06T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>original</string>
+							<string>trilogy</string>
+							<string>godzilla</string>
+							<string>jango fett</string>
+							<string>bounty hunter</string>
+							<string>celebration</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 16: Porg One Out For Palpatine</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>What-Did-Nick-Do-This-Time</string>
+						<key>GUID</key>
+						<string>4697e87e85710c07ede874d233f383fa</string>
+						<key>ID</key>
+						<integer>35</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast original trilogy godzilla jango fett bounty hunter celebration asteroid field darth vader</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this 15th episode of News of the Galaxy podcast Nick, Jody, and Connor talk everything from last Jedi behind the scenes reels to a Jabba snack bowl. Nick buys a flipping house, jody, umm... well really Nick buying that house was the biggest thing that happened in the episode. Connor made some jokes I guess. They talked about Thrawn, Nick talk about the old republic like always. Oh that's right they had a listener write in and tell them about a hot girl they meet at a library. Yep another episode of News of the Galaxy podcast.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>96951168</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_15.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-08-16T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>original</string>
+							<string>trilogy</string>
+							<string>godzilla</string>
+							<string>jango fett</string>
+							<string>bounty hunter</string>
+							<string>celebration</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 15: What Did Nick Do This Time</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Not-Your-Daddys-Podcast</string>
+						<key>GUID</key>
+						<string>35836ba978bea0c5cb29ae8c435271ea</string>
+						<key>ID</key>
+						<integer>34</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast original trilogy godzilla jango fett bounty hunter celebration asteroid field darth vader</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this 14th episode of News of the Galaxy podcast the gang get down to business and talk all things Star Wars. Nick talks impactful deaths, takes old Palpatine down a notch, and whatever else he does. Connor complains about his comic books, praises the great Guillermo Del Toro, and almost dies crushed by a stack of old DVDs. Jody loves his coffee cups, one up the others again in collecting, and drools over San Diego comic-con exclusives. You get all that and more plus stay for the bloopers at the end because Nick messes with Jody and Connor good. Also Connors mic was a little off the whole episode because we were trying something new, it will be fixed for next episode.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>144954432</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_14.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-06-28T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>original</string>
+							<string>trilogy</string>
+							<string>godzilla</string>
+							<string>jango fett</string>
+							<string>bounty hunter</string>
+							<string>celebration</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 14: Not Your Daddys Podcast</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Lets-Rip-It-A-New-One</string>
+						<key>GUID</key>
+						<string>9f91a47a362bb54a1f953ae2f96a9db7</string>
+						<key>ID</key>
+						<integer>33</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>lets rip it a new one last jedi star wars episode podcast original trilogy godzilla jango fett bounty hunter news of the galaxy celebration</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this episode of News of the Galaxy we talk about Battlefront 2 news and Connor gets excited about it and Nick and Jody hate it, we get another letter telling Nick and Jody there great, Nick takes sides, Jody talks UK toys, Connor yells at people, Nick puts a ring on it, Jody scares some people, and Connor drinks a crap load of soda. All that and more on this episode of your favorite podcast that can tell you every cantina patrons backstory but has no idea who Nicki Minaj is. Yep, that’s News of the Galaxy for you.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>176041728</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_13.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-06-08T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>lets rip it a new one</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>original</string>
+							<string>trilogy</string>
+							<string>godzilla</string>
+							<string>jango fett</string>
+							<string>bounty hunter</string>
+							<string>news of the galaxy</string>
+							<string>celebration</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 13: Lets Rip It A New One</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Gorgonzola-King-of-the-Monsters</string>
+						<key>GUID</key>
+						<string>f8fd36070673151347c6583e96c4cfd1</string>
+						<key>ID</key>
+						<integer>32</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>last jedi star wars episode podcast jango fett bounty hunter news of the galaxy celebration</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this episode of News of the Galaxy we talk about how Connor says Godzilla, Jody takes on the whole internet, our guest pretends to be Nick, Connor talks the big talk, Jody comes up with the starting question, and our guest remembers most of the Teenage Mutant Ninja Turtles cartoon theme. Jody’s mic was buzzing for most of the episode so sorry for the audio problems.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>142863552</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_12.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-05-25T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>original</string>
+							<string>trilogy</string>
+							<string>godzilla</string>
+							<string>jango fett</string>
+							<string>bounty hunter</string>
+							<string>news of the galaxy</string>
+							<string>celebration</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 12: Gorgonzola King of the Monsters</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Starring-Nick</string>
+						<key>GUID</key>
+						<string>8db32e5b12be54f4e82c196052c02666</string>
+						<key>ID</key>
+						<integer>31</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>last jedi star wars episode podcast jango fett bounty hunter news of the galaxy celebration</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this episode of News of the Galaxy we talk about Jody’s time at Celebration, Connor turns in to a fast talking Star Wars salesman, Jody challenges Connor about the starting question, Nick gets a new mic, Connor talks Star Wars trailers, and all three of them get super existed about their first letter from a listener and then that lister lets down two of them. You are going to want to tune in for this fast episode of News of the Galaxy podcast because of the number of spit takes that almost happen.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>136207296</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_11.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-04-30T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>jango fett</string>
+							<string>bounty hunter</string>
+							<string>news of the galaxy</string>
+							<string>celebration</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 11: Starring Nick</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Palpatines-Sip-of-the-Week</string>
+						<key>GUID</key>
+						<string>3222df549d9db9a782c1161fab18c9de</string>
+						<key>ID</key>
+						<integer>30</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>dagobah yoda news news of the galaxy episode star wars podcast legends lego celebration palpatine</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this episode of News of the Galaxy, Connor Nick and Jody get pumped for Star Wars Celebration, Connor chews out Palpatine, Nick goes shopping during the podcast, Jody talks Lego, Connor talks about a season 4 of Rebels, Nick yells cut, Jody throws a penny on to Connors mind train, and George Lucas complains about Best Buy. All that and much much more on this 10th episode of the podcast the brings you 50% Star Wars, 20% comedy, 16% Yelling at Nick about things, 10% nonsense, 4% sound affects, and 100% nerd.
+
+This episode was recorded on 3/30/17.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>144104832</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_10.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-03-30T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>dagobah</string>
+							<string>yoda</string>
+							<string>news</string>
+							<string>news of the galaxy</string>
+							<string>episode</string>
+							<string>star wars</string>
+							<string>podcast</string>
+							<string>legends</string>
+							<string>lego</string>
+							<string>celebration</string>
+							<string>palpatine</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 10: Palpatine's Sip of the Week</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>2-Solos-1-Cup</string>
+						<key>GUID</key>
+						<string>8a90120a61d11d35ae683f82bac3c520</string>
+						<key>ID</key>
+						<integer>29</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>star wars rogue one han solo r2d2 mark hamill hasbro movies lego</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this Crazy episode of the cast you have learned to love we talk about all things Star Wars in this XL episode. We also have a new co-host (Jody) and we are happy to have him. Also this episode is episode 9 because episode 8 was recorded and then lost in the editing stage. We have got so much Star Wars in this episode that you may just go supernova. Enjoy.
+
+This episode was recorded on 3/2/17.</string>
+						</dict>
+						<key>PodcastFilename</key>
+						<string>/Users/nickp3/Documents/NOTG/episodes/EP9/episode_9.mp3</string>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>128578176</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_9.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-03-02T17:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>star wars</string>
+							<string>rogue one</string>
+							<string>han solo</string>
+							<string>r2d2</string>
+							<string>mark hamill</string>
+							<string>hasbro</string>
+							<string>movies</string>
+							<string>lego</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 9: 2 Solo’s 1 Cup</string>
+						<key>fileToken</key>
+						<string>4C511266-98BC-4EBD-AFD9-636A193814FF</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Looking-For-Love-In-Alderaan-Places</string>
+						<key>GUID</key>
+						<string>597ddcb14811219a9a7fc9a5234a7a5c</string>
+						<key>ID</key>
+						<integer>28</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>star wars alderaan princess leia carrie fisher rebels darth vader</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>One this crazy episode of News of the Galaxy we talk all things Rouge One. We go over all the good things and bad plus our favorite characters and parts. In this short but still cool episode Connor, Nick, and friend of the show Jody talk about all the places you can follow us, Darth Vader being a badass, Connor talks about his take on a Chewbacca standalone movie, Nick gets picked on for not seeing Rebels, and Jody gives us some info on getting the girls. All that and more on this Rouge One full podcast of the only podcast to forget its own tag line, News of the Galaxy. This episode is dedicated to Carrie Fisher.
+
+This episode was recorded on 1/5/17.</string>
+						</dict>
+						<key>PodcastFilename</key>
+						<string>/Users/nickp3/Documents/NOTG/episodes/EP7/episode_7.mp3</string>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>96827904</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_7.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-01-05T17:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>star wars</string>
+							<string>alderaan</string>
+							<string>princess leia</string>
+							<string>carrie fisher</string>
+							<string>rebels</string>
+							<string>darth vader</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 7: Looking For Love In Alderaan Places</string>
+						<key>fileToken</key>
+						<string>2F8C3702-3942-49F3-84E6-E80F8B4964C2</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>The-Emperors-New-Robes</string>
+						<key>GUID</key>
+						<string>4ebbd4f7099fef3765de1c375c67b8ea</string>
+						<key>ID</key>
+						<integer>27</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>star wars mike mann podcast shenanigans princess asteroid field</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>In this episode of your favorite (we hope) Star Wars podcast, Connor and, filling in for Nick this week, Bryan talk about what they what to see in Rouge One, old Palpatine pulls one on us again, and of course the usual shenanigans but this week they have Mick Mann from Channel Star Wars on to give the episode a little class.
+
+This episode was recorded on 12/10/16.</string>
+						</dict>
+						<key>PodcastFilename</key>
+						<string>/Users/nickp3/Documents/NOTG/episodes/EP6/episode_6.mp3</string>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>158055552</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_6.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2016-12-10T17:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>star wars</string>
+							<string>mike mann</string>
+							<string>podcast</string>
+							<string>shenanigans</string>
+							<string>princess</string>
+							<string>asteroid field</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 6: The Emperor’s New Robes</string>
+						<key>fileToken</key>
+						<string>C949A26F-D703-44E1-94C6-9E082CDABAA9</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Finger-Licking-Good</string>
+						<key>GUID</key>
+						<string>7d9974a18a8bf5fe0a620a97c23d9ade</string>
+						<key>ID</key>
+						<integer>26</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>star wars commander carrie fisher ahsoka palpatine furbacca galaxy millennium falcon film comics news</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this episode of News of the Galaxy, your co-hosts, Connor and Nick talk to friend of the show, Jody Plank who is part of the Ewok Building Club. In this episode we talk about Rouge One trailers, Nike talks and talks and talks about The Old Republic, Palpatine insults Nick, a lone Furbacca plots against Connor, and Jody teaches Nick a lesson. All that and more in this Star Wars full episode of News of the Galaxy.
+
+This episode was recorded on 10/27/16.</string>
+						</dict>
+						<key>PodcastFilename</key>
+						<string>/Users/nickp3/Documents/NOTG/episodes/EP5/episode_5.mp3</string>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>193135872</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_5.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2016-10-27T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>star wars</string>
+							<string>commander</string>
+							<string>carrie fisher</string>
+							<string>ahsoka</string>
+							<string>palpatine</string>
+							<string>furbacca</string>
+							<string>galaxy</string>
+							<string>millennium falcon</string>
+							<string>film</string>
+							<string>comics</string>
+							<string>news</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 5: Finger-Licking Good</string>
+						<key>fileToken</key>
+						<string>ADCA8434-2C0B-43FC-A5DF-DF58AAF3FBB7</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>C-(MP)3PO</string>
+						<key>GUID</key>
+						<string>6eb8139db107ff1b6de4c0d4374b5f50</string>
+						<key>ID</key>
+						<integer>25</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>star wars galaxy guest rouge one legends force friday movies comics books</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this episode of News of the Galaxy Connor and Nick invite on there first guest, Bryan! With Bryan we joke about Connor’s force Friday, do Harrison Ford impressions, Connor forgets the drinking age, and Nick takes one for the team. All that and more in this episode of News of the Galaxy. Plus we have a give away on this episode of an awesome Rouge One poster, all you have to do is email us and tell us what a fun Star Wars title for a upcoming episode of this podcast!
+
+This episode was recorded on 10/8/16.</string>
+						</dict>
+						<key>PodcastFilename</key>
+						<string>/Users/nickp3/Documents/NOTG/episodes/EP4/episode_4.mp3</string>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>117071424</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_4.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2016-10-08T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>star wars</string>
+							<string>galaxy</string>
+							<string>guest</string>
+							<string>rouge one</string>
+							<string>legends</string>
+							<string>force friday</string>
+							<string>movies</string>
+							<string>comics</string>
+							<string>books</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 4: C-(MP)3PO</string>
+						<key>fileToken</key>
+						<string>ED52ACCD-F2CB-45B1-B670-C33EC3365F9F</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>A-Bucket-of-Awesomeness</string>
+						<key>GUID</key>
+						<string>bead220b47c740fbfdb8cfe189429e92</string>
+						<key>ID</key>
+						<integer>24</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>star wars black series hasbro rogue one amazon force awakens rebels asteroid field</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this episode of News of the Galaxy your lovable hosts Connor and Nick talk about combing Chewbacca, the upcoming force Friday, Connor almost burns his house down, Palpatine stops by, George Lucas has a therapy session with us, Nick talks about his “Great stormtrooper off-road adventure up Kansas way”.  All that and much more on this fun and crazy episode of the only Star Wars podcast that will make you laugh, cry, and kiss your time with you family goodbye.
+
+This Episode was recorded on 9/3/16.</string>
+						</dict>
+						<key>PodcastFilename</key>
+						<string>/Users/nickp3/Documents/NOTG/episodes/EP3/episode_3.mp3</string>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>109272384</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_3.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2016-09-03T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>star wars</string>
+							<string>black series</string>
+							<string>hasbro</string>
+							<string>rogue one</string>
+							<string>amazon</string>
+							<string>force awakens</string>
+							<string>rebels</string>
+							<string>asteroid field</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 3: A Bucket of Awesomeness</string>
+						<key>fileToken</key>
+						<string>414C4812-3F68-4118-8D90-38FA6B97D52A</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Starting-Fires</string>
+						<key>GUID</key>
+						<string>b579eba59cac181045f1c533dc12fb9b</string>
+						<key>ID</key>
+						<integer>23</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>star wars celebration Kenny Baker darth vader</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this long episode of News of the galaxy, Connor and Nick struggle to get Skype to work so sorry for the audio issues but it is a great episode all the same. On this episode Connor play with his new sound board, Nick thinks about saying “(Star Wars) Insider, I hardly know her”, Connor and Nick talk Star Wars Celebration London, the new trailer gets dissected, and one Mr. Annie(?)Vader tells us how he really fells. All that and more on this episode of New of the Galaxy that will make you fell like a kid again. This episode is dedicated to Kenny Baker.
+
+This episode was recorded on 8/15/16.</string>
+						</dict>
+						<key>PodcastFilename</key>
+						<string>/Users/nickp3/Documents/NOTG/episodes/EP2/episode_2.mp3</string>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>204603648</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_2.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2016-08-15T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>star wars</string>
+							<string>celebration</string>
+							<string>Kenny Baker</string>
+							<string>darth vader</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 2: Starting Fires</string>
+						<key>fileToken</key>
+						<string>7FB81F21-2FA5-4A59-803E-05B470474EC0</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Captain-Kirk-is-a-Dirty-Word</string>
+						<key>GUID</key>
+						<string>f12f855e6b60042a412878c946b417bd</string>
+						<key>ID</key>
+						<integer>20</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>star wars wookie dark side galaxy darth vader asteroid field funko pop hasbro ear candy</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>This is the first episode of News of the Galaxy. On this episode your soon to be favorite host of New of the Galaxy, Connor and Nick talk about fake action figures, the new Funko Pops, and Lando “Tips us off” about the soup can bombs in our house. Hear how all that and more as we feed you your first dose of News of the Galaxy ear candy.
+
+This episode was recorded sometime around 7/30/16.</string>
+						</dict>
+						<key>PodcastFilename</key>
+						<string>/Users/nickp3/Documents/NOTG/episodes/EP1/episode_1.mp3</string>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>52679232</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_1.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2016-07-30T16:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>star wars</string>
+							<string>wookie</string>
+							<string>dark side</string>
+							<string>galaxy</string>
+							<string>darth vader</string>
+							<string>asteroid field</string>
+							<string>funko pop</string>
+							<string>hasbro</string>
+							<string>ear candy</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 1: Captain Kirk is a Dirty Word</string>
+						<key>fileToken</key>
+						<string>CA8D1C04-2AFF-4EEC-BA35-85339F849E48</string>
+					</dict>
+				</array>
+				<key>GeneratePermalinkPages</key>
+				<true/>
+				<key>GenerateRSSEntriesForMainPageOnly</key>
+				<true/>
+				<key>LastBuildDate</key>
+				<date>2017-11-04T16:38:38Z</date>
+				<key>LastID</key>
+				<integer>38</integer>
+				<key>LastSavedBuildDate</key>
+				<date>2007-06-29T18:43:26Z</date>
+				<key>LocaliseDate</key>
+				<false/>
+				<key>NumberOfFrontPagePosts</key>
+				<integer>100</integer>
+				<key>PermalinkText</key>
+				<string>Permalink</string>
+				<key>PrependSummaryToPost</key>
+				<true/>
+				<key>RSSCopyrightText</key>
+				<string>Copyright 2017 | Connor Daniels</string>
+				<key>RSSCreator</key>
+				<string>newsofthegalaxy@outlook.com</string>
+				<key>RSSCustomFeedFilename</key>
+				<string>News of the Galaxy</string>
+				<key>RSSDescription</key>
+				<string>News of the Galaxy, a Star Wars Podcast, is a fan based Podcast out of Seattle, Washington and Washington, D.C.</string>
+				<key>RSSFeedLinkText</key>
+				<string>News of the Galaxy</string>
+				<key>RSSLanguage</key>
+				<string>English</string>
+				<key>RSSTitleText</key>
+				<string>News of the Galaxy</string>
+				<key>ReadMoreText</key>
+				<string> Read More...</string>
+				<key>ShowCategoryPostCounts</key>
+				<true/>
+				<key>ShowPostLimit</key>
+				<integer>10</integer>
+				<key>ShowTagPostCounts</key>
+				<false/>
+				<key>SortedCategoryExport</key>
+				<true/>
+				<key>SummariseEntryRSSCount</key>
+				<integer>1</integer>
+				<key>TagCloudEnabled</key>
+				<true/>
+				<key>TagsEnabled</key>
+				<true/>
+				<key>TagsSeparatorText</key>
+				<string> | </string>
+				<key>TagsTitleText</key>
+				<string>Tags: </string>
+				<key>UsePHPForSidebarContent</key>
+				<false/>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>01-Body.as</string>
+				<string>01-Summary.as</string>
+				<string>02-Body.as</string>
+				<string>02-Summary.as</string>
+				<string>03-Body.as</string>
+				<string>03-Summary.as</string>
+				<string>04-Body.as</string>
+				<string>04-Summary.as</string>
+				<string>05-Body.as</string>
+				<string>05-Summary.as</string>
+				<string>06-Body.as</string>
+				<string>06-Summary.as</string>
+				<string>07-Body.as</string>
+				<string>07-Summary.as</string>
+				<string>08-Body.as</string>
+				<string>08-Summary.as</string>
+				<string>09-Body.as</string>
+				<string>09-Summary.as</string>
+				<string>10-Body.as</string>
+				<string>10-Summary.as</string>
+				<string>11-Body.as</string>
+				<string>11-Summary.as</string>
+				<string>12-Body.as</string>
+				<string>12-Summary.as</string>
+				<string>13-Body.as</string>
+				<string>13-Summary.as</string>
+				<string>14-Body.as</string>
+				<string>14-Summary.as</string>
+				<string>15-Body.as</string>
+				<string>15-Summary.as</string>
+				<string>16-Body.as</string>
+				<string>16-Summary.as</string>
+				<string>DefaultITunesImage.data</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Blog Page Data</string>
+</dict>
+</plist>

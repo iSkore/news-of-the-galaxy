@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ChangedStatuses</key>
+				<dict>
+					<key>default</key>
+					<true/>
+					<key>file:///Users/codebuddha/GitHub/news-of-the-galaxy/www/</key>
+					<false/>
+					<key>file:///Users/nickp3/Documents/NOTG/www/</key>
+					<true/>
+					<key>file:///Users/nickp3/Downloads/NOTG/export/</key>
+					<true/>
+					<key>file:///Users/nickp3/NOTG/www/</key>
+					<true/>
+					<key>file:///Users/pare101/.Trash/www/</key>
+					<true/>
+					<key>file:///Users/pare101/Development/NOTG/www/</key>
+					<true/>
+				</dict>
+				<key>ColourStyles</key>
+				<dict/>
+				<key>CreditRapidWeaver</key>
+				<false/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomHeader</key>
+				<string>&lt;script type="application/ld+json"&gt;
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "News of the Galaxy"
+  "url": "https://newsofthegalaxy.com",
+  "logo": "https://newsofthegalaxy.com/logo.jpg"
+}
+&lt;/script&gt;
+&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
+&lt;script async src="https://www.googletagmanager.com/gtag/js?id=UA-109208405-1"&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109208405-1');
+&lt;/script&gt;
+</string>
+				<key>CustomSiteTitle</key>
+				<string>404 - Not Found &lt;i class="fa fa-exclamation-circle"&gt;&lt;/i&gt;</string>
+				<key>CustomSiteTitleUsed</key>
+				<true/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>/</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
+				<true/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>404-error.html</string>
+				<key>MetaDescription</key>
+				<string>News of the Galaxy, a Star Wars Podcast, is a fan based Podcast out of Seattle, Washington and Washington, D.C.</string>
+				<key>OutputFormat</key>
+				<string>Default</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>PluginHasPerformedMigrationToSharedData</key>
+				<true/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

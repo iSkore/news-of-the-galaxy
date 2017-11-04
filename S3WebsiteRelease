@@ -1,0 +1,17 @@
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+aws s3 sync \
+	$DIR/www/ \
+	s3://newsofthegalaxy.com/ \
+	--exclude "*.DS_Store*" \
+	--exclude "*.DS_Store" \
+	--exclude ".DS_Store" \
+	--exclude "*/.DS_Store*" \
+	--exclude "*/.DS_Store" \
+	--exclude "__MACOSX__" \
+	--exclude "./__MACOSX__" \
+	--exclude "*/__MACOSX__" \
+	--exclude "*/__MACOSX__*" \
+	--delete \
+	--exact-timestamps \
+	--profile iskore

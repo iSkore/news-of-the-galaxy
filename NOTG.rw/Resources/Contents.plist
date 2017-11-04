@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict/>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>128113F3-6EA8-4D78-9493-F339A162D242</string>
+				<string>18527A46-D70F-4A5C-952E-D2C89DB6DC6A</string>
+				<string>1DDEECC6-BE74-46F4-9460-4A1F393A6CFE</string>
+				<string>202C6BC4-35C5-47F9-A08C-1EC1E9ABA151</string>
+				<string>23F09433-DC7C-45B1-8AE8-66E898E6084D</string>
+				<string>26F91067-2ABF-4E9D-9BB0-297EFC7DCE5B</string>
+				<string>279B70B0-F3BA-49A7-9E68-73DF3F35F2E0</string>
+				<string>2B7A847A-097D-4C40-83AF-67AEF17E410C</string>
+				<string>34B4265A-4C1B-40FD-B1F3-CDCE01BC9DD4</string>
+				<string>352EFA68-1000-40B3-B2F3-4ABD1F6AB0B1</string>
+				<string>3B6B377E-C170-4220-8422-202AE22A4FF8</string>
+				<string>433F3334-5CBB-49D3-AC6C-AFDBBB686A47</string>
+				<string>4B7C68FF-7FC8-43BE-A615-692EEF2D139A</string>
+				<string>4D544FD0-87FE-48E5-B544-E09CC39D7F7F</string>
+				<string>566DF2F8-DB15-419C-BC06-BBFF482F1F3D</string>
+				<string>6EC37391-9BA1-4F6A-984B-67F0A12C7043</string>
+				<string>7207E40B-4CFC-42D1-B02E-FA4FBA6D80F1</string>
+				<string>735BB437-D6B1-4E8C-83EC-2EECAB8753CB</string>
+				<string>7D17BA7C-60D1-453A-8BC1-7C2EC258F921</string>
+				<string>8B099CD0-ECEA-4E6C-B28A-699614807750</string>
+				<string>91A81364-2654-4352-B114-B77A847FF009</string>
+				<string>9382F556-CC9C-43DD-887A-21DBD5261B83</string>
+				<string>9A4A7537-DF39-48BB-A9D0-6BC90C8F9CF0</string>
+				<string>9BB3FCE5-10E3-4A49-A021-8F73D813AAFC</string>
+				<string>9F51FFD4-786E-4C32-8B7C-978ED89B4096</string>
+				<string>A459B591-D1A1-44AE-9753-C2092F8694E6</string>
+				<string>A6D31165-05ED-45F7-8B85-3DE14205360E</string>
+				<string>AB279A4B-25EE-487C-8ED1-521CF5619B2D</string>
+				<string>B16B75F8-5DE0-498D-A0FC-9CC28E7DD768</string>
+				<string>B3B4CB77-0210-4060-8FF3-6512CAF6B4D5</string>
+				<string>CAEFDB75-965B-4808-A6AB-4D8BB8F96D92</string>
+				<string>CD5BD7D9-648C-493A-BD54-92E5C4FA1725</string>
+				<string>CFC03326-5881-485B-8107-5A72032BFD61</string>
+				<string>D24EC993-60A0-409F-8991-B203A473A145</string>
+				<string>E446D209-296D-4578-945D-D7578F84D923</string>
+				<string>EE45419B-E8D6-4ECE-9FFC-85F85896FDB7</string>
+				<string>F2EC35DA-BA0F-4125-B218-F3BEB632E702</string>
+				<string>F592919F-67DE-47E0-AF2B-49BC463B332E</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Resources</string>
+</dict>
+</plist>
