@@ -117,6 +117,88 @@
 					<dict>
 						<key>CategoryIDs</key>
 						<array>
+							<integer>1</integer>
+						</array>
+						<key>GUID</key>
+						<string>202a7c1bdc67c55fab1969b40c20e2cb</string>
+						<key>ID</key>
+						<integer>39</integer>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>111607488</real>
+						</dict>
+						<key>Posted</key>
+						<date>2018-01-06T22:35:50Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Title</key>
+						<string>Episode 18: Meatball Babies</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Meatball-Babies</string>
+						<key>GUID</key>
+						<string>3599bc0d1c459c79bdbcc8f7efea54d4</string>
+						<key>ID</key>
+						<integer>38</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast original trilogy godzilla jango fett bounty hunter celebration asteroid field darth vader</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this the 18th Episode of News of the Galaxy the three knuckle-heads bring on a new and more qualified co-host, it's Elna Diez! In this packed episode Connor talks Last Jedi posters and trailers, Nick acts like he has somewhere to be, Jody just gives up, Elna shows the boys how it's done, Connor pitches his new TV puppet show, Meatball Babies, Nick asks why he even bothers, Jody races Elna to make a Star Wars Helmet, and Elna makes everyone hungry for Wookie cookies. All that and much much more on the Star Wars podcast that is old enough to move out.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>115534080</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_18.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2017-11-08T17:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>original</string>
+							<string>trilogy</string>
+							<string>godzilla</string>
+							<string>jango fett</string>
+							<string>bounty hunter</string>
+							<string>celebration</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 18: Meatball Babies</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
 							<integer>3</integer>
 							<integer>5</integer>
 						</array>
@@ -1061,9 +1143,9 @@ This episode was recorded sometime around 7/30/16.</string>
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<true/>
 				<key>LastBuildDate</key>
-				<date>2017-11-04T16:38:38Z</date>
+				<date>2018-01-06T22:50:18Z</date>
 				<key>LastID</key>
-				<integer>38</integer>
+				<integer>40</integer>
 				<key>LastSavedBuildDate</key>
 				<date>2007-06-29T18:43:26Z</date>
 				<key>LocaliseDate</key>
@@ -1145,6 +1227,10 @@ This episode was recorded sometime around 7/30/16.</string>
 				<string>15-Summary.as</string>
 				<string>16-Body.as</string>
 				<string>16-Summary.as</string>
+				<string>17-Body.as</string>
+				<string>17-Summary.as</string>
+				<string>18-Body.as</string>
+				<string>18-Summary.as</string>
 				<string>DefaultITunesImage.data</string>
 			</array>
 			<key>Subsandwiches</key>

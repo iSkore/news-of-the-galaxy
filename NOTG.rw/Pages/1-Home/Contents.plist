@@ -31,7 +31,74 @@
 					<string>3.5.5</string>
 				</dict>
 				<key>PublishingManifests</key>
-				<dict/>
+				<dict>
+					<key>file:///Users/codebuddha/GitHub/news-of-the-galaxy/www/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-01-06T22:34:14Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								XXzECowKdfhw
+								Az+EdNEr1g==
+								</data>
+								<key>Size</key>
+								<integer>10975</integer>
+							</dict>
+							<key>index_files/stacks-image-03b3ac6-1200x894.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								6eSe9FgYF6xj
+								Q+FDBY8y3Q==
+								</data>
+								<key>Size</key>
+								<integer>246206</integer>
+							</dict>
+							<key>index_files/stacks-image-03b3ac6-1200x894@2x.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								0CCXomGj8j8j
+								NDqgTpgAdQ==
+								</data>
+								<key>Size</key>
+								<integer>462125</integer>
+							</dict>
+							<key>index_files/stacks_page_page8.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								mzHnOSROJWIb
+								ozFisNbjOA==
+								</data>
+								<key>Size</key>
+								<integer>709</integer>
+							</dict>
+							<key>index_files/stacks_page_page8.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/sVCkdFW9q/I
+								jsYQMInoDw==
+								</data>
+								<key>Size</key>
+								<integer>17</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page8</string>
+						<key>SiteRoot</key>
+						<string></string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
 			</dict>
 			<key>Files</key>
 			<array/>

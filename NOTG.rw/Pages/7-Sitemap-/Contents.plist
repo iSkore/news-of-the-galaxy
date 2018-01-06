@@ -39,80 +39,20 @@
 					<key>file:///Users/codebuddha/GitHub/news-of-the-galaxy/www/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-11-04T16:58:04Z</date>
+						<date>2018-01-06T22:34:14Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>apple-touch-icon.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/+NW5WgZswrn
-								gOub16I2+A==
-								</data>
-								<key>Size</key>
-								<integer>22488</integer>
-							</dict>
-							<key>favicon.ico</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								26Hz6mn0MBiG
-								B8kIveoDEA==
-								</data>
-								<key>Size</key>
-								<integer>1150</integer>
-							</dict>
-							<key>rw_common/images/notg_banner.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								C+e6jxFNyj6l
-								95gF+K0QlQ==
-								</data>
-								<key>Size</key>
-								<integer>448480</integer>
-							</dict>
-							<key>rw_common/images/stormtrooper.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/+NW5WgZswrn
-								gOub16I2+A==
-								</data>
-								<key>Size</key>
-								<integer>22488</integer>
-							</dict>
-							<key>rw_common/version.txt</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								a0XPRnqciAAR
-								Wagm6Sx0Nw==
-								</data>
-								<key>Size</key>
-								<integer>5</integer>
-							</dict>
 							<key>sitemap.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								MtyLZEPZvWqJ
-								D9hYQxU9vA==
+								GhdRoTpiVb8w
+								4YPYwS3GwA==
 								</data>
 								<key>Size</key>
 								<integer>8072</integer>
-							</dict>
-							<key>sitemap.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								HxcH0CY/dK8R
-								K4IJUPgT4Q==
-								</data>
-								<key>Size</key>
-								<integer>9359</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

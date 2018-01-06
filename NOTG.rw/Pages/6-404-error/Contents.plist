@@ -31,7 +31,34 @@
 					<string>7.0</string>
 				</dict>
 				<key>PublishingManifests</key>
-				<dict/>
+				<dict>
+					<key>file:///Users/codebuddha/GitHub/news-of-the-galaxy/www/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-01-06T22:34:14Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>404-error.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Oezp+Jx3RaeI
+								7UijIxKFgQ==
+								</data>
+								<key>Size</key>
+								<integer>7451</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page0</string>
+						<key>SiteRoot</key>
+						<string></string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
 			</dict>
 			<key>Files</key>
 			<array/>

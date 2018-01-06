@@ -13,6 +13,8 @@
 				<dict>
 					<key>default</key>
 					<true/>
+					<key>file:///Users/codebuddha/.Trash/www/</key>
+					<true/>
 					<key>file:///Users/codebuddha/GitHub/news-of-the-galaxy/www/</key>
 					<false/>
 					<key>file:///Users/nickp3/Documents/NOTG/www/</key>
@@ -22,7 +24,7 @@
 					<key>file:///Users/pare101/.Trash/www/</key>
 					<true/>
 					<key>file:///Users/pare101/Development/NOTG/www/</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict>
