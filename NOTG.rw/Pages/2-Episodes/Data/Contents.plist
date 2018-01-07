@@ -117,25 +117,57 @@
 					<dict>
 						<key>CategoryIDs</key>
 						<array>
-							<integer>1</integer>
+							<integer>3</integer>
+							<integer>5</integer>
 						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Theres-Indoor-and-Outdoor</string>
 						<key>GUID</key>
-						<string>202a7c1bdc67c55fab1969b40c20e2cb</string>
+						<string>0c578a0186c39aae13ded4015f3df80d</string>
 						<key>ID</key>
-						<integer>39</integer>
+						<integer>41</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast original trilogy godzilla jango fett bounty hunter celebration asteroid field darth vader</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this the 19th episode of News of the Galaxy Nick diches the gang so it's Jody, Connor, and Elna in this the first episode of the podcast where all the co-hoster forgot to take their Ritalin. In this crazy episode Connor just starts saying random numbers, Jody talks about how back in his day, Elna paints a word picture of a lovely Star Wars dinner, Connor (can't drink yet) talks about the new Star Wars bar, Jody talks about a thing he does not know about, and Elna backs the right robot. All that and much much more on the Star Wars podcast that decided to all sing over a laggy Skype connection.</string>
+						</dict>
 						<key>PodcastOverride</key>
 						<dict>
 							<key>override</key>
 							<true/>
 							<key>size</key>
 							<real>111607488</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_19.mp3</string>
 						</dict>
 						<key>Posted</key>
-						<date>2018-01-06T22:35:50Z</date>
+						<date>2017-11-29T17:00:00Z</date>
 						<key>PublishStatus</key>
 						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>original</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+							<string>hasbro</string>
+						</array>
 						<key>Title</key>
-						<string>Episode 18: Meatball Babies</string>
+						<string>Episode 19: There's Indoor and Outdoor</string>
 					</dict>
 					<dict>
 						<key>CategoryIDs</key>
@@ -1143,9 +1175,9 @@ This episode was recorded sometime around 7/30/16.</string>
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<true/>
 				<key>LastBuildDate</key>
-				<date>2018-01-06T22:50:18Z</date>
+				<date>2018-01-06T23:39:04Z</date>
 				<key>LastID</key>
-				<integer>40</integer>
+				<integer>42</integer>
 				<key>LastSavedBuildDate</key>
 				<date>2007-06-29T18:43:26Z</date>
 				<key>LocaliseDate</key>

@@ -22,7 +22,7 @@
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Blogok</string>
 				<key>PageTitle</key>
-				<string>Holocron</string>
+				<string>Episodes</string>
 				<key>PluginClassName</key>
 				<string>RWBlogPlugin</string>
 				<key>PluginMetadata</key>
@@ -39,7 +39,7 @@
 					<key>file:///Users/codebuddha/GitHub/news-of-the-galaxy/www/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-01-06T22:34:14Z</date>
+						<date>2018-01-06T23:42:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -48,78 +48,78 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Kjq6iqe6UAO6
-								dCKod4TnRA==
+								owLttpAmIJ6i
+								GSuWmRT/DA==
 								</data>
 								<key>Size</key>
-								<integer>86757</integer>
+								<integer>89453</integer>
 							</dict>
 							<key>podcast_files/2-Solos-1-Cup.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								3SPxF53AHfGB
-								edOZbrJ3Pw==
+								hbsfNrXT2kDI
+								we7CKZGHVQ==
 								</data>
 								<key>Size</key>
-								<integer>21188</integer>
+								<integer>21262</integer>
 							</dict>
 							<key>podcast_files/A-Bucket-of-Awesomeness.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								jak0C2YSheX1
-								u9bLcJA8rg==
+								eTRtCpAUvyVE
+								+WHRdciInw==
 								</data>
 								<key>Size</key>
-								<integer>17676</integer>
+								<integer>17664</integer>
 							</dict>
 							<key>podcast_files/C-(MP)3PO.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								XCD8gd/XdgGy
-								6kFrKS5Bnw==
+								V+26LvlfXDZn
+								wrHNfiUMoA==
 								</data>
 								<key>Size</key>
-								<integer>17241</integer>
+								<integer>17049</integer>
 							</dict>
 							<key>podcast_files/Captain-Kirk-is-a-Dirty-Word.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ViAHcHQfAKwo
-								lWUqyE4+tA==
+								keHn0JTriY2Z
+								kYK2V01EDA==
 								</data>
 								<key>Size</key>
-								<integer>16797</integer>
+								<integer>16682</integer>
 							</dict>
 							<key>podcast_files/Finger-Licking-Good.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								e/y67m+MIzk6
-								UnNrU4hDyw==
+								0U9i5xdF7yPI
+								i5+eo0D+nQ==
 								</data>
 								<key>Size</key>
-								<integer>19405</integer>
+								<integer>19136</integer>
 							</dict>
 							<key>podcast_files/Gorgonzola-King-of-the-Monsters.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								8f8F38Bbgn2b
-								yANgEq6M4A==
+								sCEj8NJgcAC5
+								YNpUjGTn7g==
 								</data>
 								<key>Size</key>
-								<integer>18628</integer>
+								<integer>18548</integer>
 							</dict>
 							<key>podcast_files/Keep-Spinning-You-Goofy-Death-Star.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								0MJYloZWxV9l
-								S04BC6IrEw==
+								6IXnkKJoNRgH
+								aNYKkDULuw==
 								</data>
 								<key>Size</key>
 								<integer>17912</integer>
@@ -128,28 +128,28 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								DAD8omlrgsII
-								/LS8AFqC2g==
+								sMReacZuUdEB
+								mP1U9wTBfQ==
 								</data>
 								<key>Size</key>
-								<integer>18643</integer>
+								<integer>18556</integer>
 							</dict>
 							<key>podcast_files/Looking-For-Love-In-Alderaan-Places.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								e0aPmasAbOpf
-								C3f+7A2SWw==
+								/rm7vKbAx7oO
+								IdBkE5jeoA==
 								</data>
 								<key>Size</key>
-								<integer>16510</integer>
+								<integer>16480</integer>
 							</dict>
 							<key>podcast_files/Meatball-Babies.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								8f2ev9AEc/Vq
-								sinC7sGHvg==
+								ucQiT3b5uIJY
+								F7TRr8NHbg==
 								</data>
 								<key>Size</key>
 								<integer>18982</integer>
@@ -158,18 +158,18 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								VyoAxdTb+Ycw
-								YRzWuKT3IQ==
+								NgM0+8ZYuKYQ
+								fdzB5g9Hkg==
 								</data>
 								<key>Size</key>
-								<integer>38496</integer>
+								<integer>49247</integer>
 							</dict>
 							<key>podcast_files/Not-Your-Daddys-Podcast.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								N9ti9VRbFGOJ
-								TBg3tQ1/3g==
+								7v0pXxKjYlfC
+								R1RFOqBtNA==
 								</data>
 								<key>Size</key>
 								<integer>19522</integer>
@@ -178,18 +178,18 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Id+13WVtfrBl
-								S8PQgbnRGA==
+								1XsFUtMo3V9e
+								Zn8nIln/SA==
 								</data>
 								<key>Size</key>
-								<integer>19365</integer>
+								<integer>19314</integer>
 							</dict>
 							<key>podcast_files/Porg-One-Out-For-Palpatine.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								LTYEx6BDpg7x
-								Ua/jZwMyUg==
+								n0qjdzmoAL//
+								9M115Id4rQ==
 								</data>
 								<key>Size</key>
 								<integer>17757</integer>
@@ -198,38 +198,48 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								acx8xaYO5+rA
-								swcQCl/+Iw==
+								CwKc8JtdG12K
+								ZLCxmrymAg==
 								</data>
 								<key>Size</key>
-								<integer>18591</integer>
+								<integer>18539</integer>
 							</dict>
 							<key>podcast_files/Starting-Fires.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								vqNCI1cL8Smd
-								XLU7TVeODA==
+								3w94sX2ibgbR
+								CIom1uRDxg==
 								</data>
 								<key>Size</key>
-								<integer>16474</integer>
+								<integer>16395</integer>
 							</dict>
 							<key>podcast_files/The-Emperors-New-Robes.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Pft4iaPgu3S4
-								JUTgUc83SQ==
+								juAw7yrNCIOB
+								xSjNQ7evvQ==
 								</data>
 								<key>Size</key>
-								<integer>17626</integer>
+								<integer>17585</integer>
+							</dict>
+							<key>podcast_files/Theres-Indoor-and-Outdoor.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UQaBNh+ZtIC7
+								64v+I3RfDA==
+								</data>
+								<key>Size</key>
+								<integer>17674</integer>
 							</dict>
 							<key>podcast_files/What-Did-Nick-Do-This-Time.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								aIeLG8hdtsbT
-								aYM77xr4YA==
+								5MBgmh7XkKba
+								pP0K+Qu48A==
 								</data>
 								<key>Size</key>
 								<integer>18027</integer>
@@ -238,41 +248,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								LQthSlUFe0aF
-								zBpACqNHxQ==
+								CHaEYoMOYCD5
+								Jbc5caNGIQ==
 								</data>
 								<key>Size</key>
-								<integer>34364</integer>
+								<integer>33656</integer>
 							</dict>
 							<key>podcast_files/archive-2017.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								OeyFF0PELR2M
-								M2fnFj/6Ww==
+								4HXdC1z+kibx
+								MSl3nQEYxg==
 								</data>
 								<key>Size</key>
-								<integer>63249</integer>
+								<integer>66485</integer>
 							</dict>
 							<key>podcast_files/category-comedy.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Kjns1QY+KDmy
-								KhJzbSi4nA==
+								Ezo5oSeYLeAr
+								LzPBcnUPQg==
 								</data>
 								<key>Size</key>
-								<integer>79790</integer>
+								<integer>82120</integer>
 							</dict>
 							<key>podcast_files/category-games-0026-hobbies.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								mjClpK/bb12K
-								7tItmnzRwg==
+								iXBoL90NYb6C
+								d2STF9tigw==
 								</data>
 								<key>Size</key>
-								<integer>79808</integer>
+								<integer>82138</integer>
 							</dict>
 							<key>podcast_files/ep13-2.png</key>
 							<dict>
@@ -288,11 +298,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								BGjpynSuVVsC
-								KLXoNkkXJA==
+								PytDuSsAiU2W
+								IgFonI3JgQ==
 								</data>
 								<key>Size</key>
-								<integer>8502</integer>
+								<integer>8742</integer>
 							</dict>
 							<key>podcast_files/podcast_channel.png</key>
 							<dict>
@@ -308,521 +318,521 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								5GOs1YCNsBNZ
-								EPX4KP+n6Q==
+								NH0KeTFMt2se
+								MaoBKHBEPg==
 								</data>
 								<key>Size</key>
-								<integer>19596</integer>
+								<integer>19327</integer>
 							</dict>
 							<key>podcast_files/tag-alderaan.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								uqoWMBDwYG4a
-								WbolWyLpUg==
+								Q4G+oLNU0zgB
+								F9da3AbmSA==
 								</data>
 								<key>Size</key>
-								<integer>16705</integer>
+								<integer>16675</integer>
 							</dict>
 							<key>podcast_files/tag-amazon.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								koH/VD8B8K4q
-								9KVpSWVxaA==
+								P/H9iKGK7mO1
+								/3kudPqLEA==
 								</data>
 								<key>Size</key>
-								<integer>17867</integer>
+								<integer>17855</integer>
 							</dict>
 							<key>podcast_files/tag-asteroid-field.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								1XB/EaG0+TLD
-								LGi85+AqiA==
+								zyWybwbc956g
+								qcwNREhddw==
 								</data>
 								<key>Size</key>
-								<integer>45035</integer>
+								<integer>48330</integer>
 							</dict>
 							<key>podcast_files/tag-black-series.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								zO/6LH771mEV
-								JORYnRTesQ==
+								VfCjNUBCh8J7
+								ankpfDzjng==
 								</data>
 								<key>Size</key>
-								<integer>17879</integer>
+								<integer>17867</integer>
 							</dict>
 							<key>podcast_files/tag-books.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								PMw6zxHWCBv2
-								GMKFYe04vQ==
+								M9ATu2pWY3e6
+								EJxD6Xwy8g==
 								</data>
 								<key>Size</key>
-								<integer>17430</integer>
+								<integer>17238</integer>
 							</dict>
 							<key>podcast_files/tag-bounty-hunter.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								i91LNWjRMhd2
-								MxzvSRdlsw==
+								JIn17ubwz7kl
+								MDdEFNzdmA==
 								</data>
 								<key>Size</key>
-								<integer>48796</integer>
+								<integer>48577</integer>
 							</dict>
 							<key>podcast_files/tag-carrie-fisher.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								6QLw9PosTBvp
-								ibp9rWLRVQ==
+								laPFjYJg5uUs
+								IQlvqhSVQA==
 								</data>
 								<key>Size</key>
-								<integer>21911</integer>
+								<integer>21612</integer>
 							</dict>
 							<key>podcast_files/tag-celebration.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								gBYKpTC8TsoY
-								YChhJMsu6A==
+								2uOGxnkb0BX3
+								V+N4UxoU8A==
 								</data>
 								<key>Size</key>
-								<integer>56211</integer>
+								<integer>55862</integer>
 							</dict>
 							<key>podcast_files/tag-comics.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								tCnG5bFZPM42
-								yL0sQQsDgg==
+								v3CyJRlsqmfK
+								jawqDr0G6A==
 								</data>
 								<key>Size</key>
-								<integer>22628</integer>
+								<integer>22167</integer>
 							</dict>
 							<key>podcast_files/tag-commander.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								53LFXxUDuANF
-								VRCkSp3F+A==
+								SBG0GxmYixjq
+								vOmDEPN2jg==
 								</data>
 								<key>Size</key>
-								<integer>19602</integer>
+								<integer>19333</integer>
 							</dict>
 							<key>podcast_files/tag-dagobah.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								2gOtpZ050L9A
-								jHwC8elRPg==
+								WIy1hlQqeua8
+								0TmFeoxg4g==
 								</data>
 								<key>Size</key>
-								<integer>19556</integer>
+								<integer>19505</integer>
 							</dict>
 							<key>podcast_files/tag-dark-side.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								W8sjlf7Q6xVs
-								PNPAUObf2A==
+								HEvQg7qZHlMh
+								6pWK234rLQ==
 								</data>
 								<key>Size</key>
-								<integer>16994</integer>
+								<integer>16879</integer>
 							</dict>
 							<key>podcast_files/tag-darth-vader.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Knrjd122hfLQ
-								njJvsa6hpA==
+								IkyCLFaJtK8r
+								WpBYnz88pA==
 								</data>
 								<key>Size</key>
-								<integer>42714</integer>
+								<integer>45953</integer>
 							</dict>
 							<key>podcast_files/tag-ear-candy.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								d0svuAG9hv+r
-								KRJu77LS8A==
+								aHXO8DpLv4+x
+								blM1fbj2Cg==
 								</data>
 								<key>Size</key>
-								<integer>16994</integer>
+								<integer>16879</integer>
 							</dict>
 							<key>podcast_files/tag-episode.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								zPwYwB1cOL9G
-								fjHd1zk4Vg==
+								3FihzLyk0qwJ
+								0rSVj8pFQw==
 								</data>
 								<key>Size</key>
-								<integer>53938</integer>
+								<integer>57131</integer>
 							</dict>
 							<key>podcast_files/tag-film.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ZlC0RO7jhw6K
-								noanha/KVw==
+								Psges0tVlg93
+								it8ZrcyrcQ==
 								</data>
 								<key>Size</key>
-								<integer>19592</integer>
+								<integer>19323</integer>
 							</dict>
 							<key>podcast_files/tag-force-awakens.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								d5ns2Z/frGIY
-								oMqhd+e4ow==
+								3728MY89TjCu
+								i07fhJFXSg==
 								</data>
 								<key>Size</key>
-								<integer>17881</integer>
+								<integer>17869</integer>
 							</dict>
 							<key>podcast_files/tag-force-friday.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								K1QItAhQiSLa
-								2eeex4+R7A==
+								kwZVuRIsx7zw
+								izFdYpOD2g==
 								</data>
 								<key>Size</key>
-								<integer>17444</integer>
+								<integer>17252</integer>
 							</dict>
 							<key>podcast_files/tag-funko-pop.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								vla0uKYtCr+t
-								9ykHCO7gIA==
+								bmBXJpluje0D
+								J/8rd511dQ==
 								</data>
 								<key>Size</key>
-								<integer>16994</integer>
+								<integer>16879</integer>
 							</dict>
 							<key>podcast_files/tag-furbacca.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Ppth8mipLUiY
-								FU4+914AFA==
+								iOIq/jPeVksB
+								kQBa996enQ==
 								</data>
 								<key>Size</key>
-								<integer>19600</integer>
+								<integer>19331</integer>
 							</dict>
 							<key>podcast_files/tag-galaxy.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								QmQfnfHT+OLj
-								ZkvrdISW7A==
+								WJPx021t4NPl
+								yq7EJKwrug==
 								</data>
 								<key>Size</key>
-								<integer>25216</integer>
+								<integer>24640</integer>
 							</dict>
 							<key>podcast_files/tag-godzilla.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								gezqBpZRRGVj
-								a4VopTAkLg==
+								oECHEHw6SuHq
+								DmqlCKZLhw==
 								</data>
 								<key>Size</key>
-								<integer>44405</integer>
+								<integer>44238</integer>
 							</dict>
 							<key>podcast_files/tag-guest.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								c8os5OVsQ92Z
-								AilmoIXQ6A==
+								9y/gQDBgCyvF
+								M3OLFDYBXA==
 								</data>
 								<key>Size</key>
-								<integer>17430</integer>
+								<integer>17238</integer>
 							</dict>
 							<key>podcast_files/tag-han-solo.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								0xV/eRz9KYAM
-								hYj46o42+g==
+								CnU9Sh00l1Ol
+								aKEVYsNB0g==
 								</data>
 								<key>Size</key>
-								<integer>21380</integer>
+								<integer>21454</integer>
 							</dict>
 							<key>podcast_files/tag-hasbro.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								UY4pqUQBqnSP
-								hlIcbb0VCw==
+								S60lLxRd/eGT
+								KylOysnSYw==
 								</data>
 								<key>Size</key>
-								<integer>27431</integer>
+								<integer>30841</integer>
 							</dict>
 							<key>podcast_files/tag-jango-fett.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								YoC/6mDLPGjO
-								U0BFvTeiug==
+								XcajzA2mhEul
+								FWuTNgk6Jg==
 								</data>
 								<key>Size</key>
-								<integer>48790</integer>
+								<integer>48571</integer>
 							</dict>
 							<key>podcast_files/tag-kenny-baker.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								40UH2R7t6sm0
-								TYEF3cYSIw==
+								qZ3qi7LEcsBS
+								sOsFNPmV5Q==
 								</data>
 								<key>Size</key>
-								<integer>16675</integer>
+								<integer>16596</integer>
 							</dict>
 							<key>podcast_files/tag-last-jedi.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								DMB8d6BxNd6O
-								nZCUC2NH7Q==
+								xj2QYg0s8e12
+								b78sA55Xzw==
 								</data>
 								<key>Size</key>
-								<integer>48788</integer>
+								<integer>52032</integer>
 							</dict>
 							<key>podcast_files/tag-legends.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								AuHjjz/1PJsR
-								xlRuKB6eOQ==
+								hcJq/v3tZOjg
+								whpNASqH7A==
 								</data>
 								<key>Size</key>
-								<integer>22588</integer>
+								<integer>22345</integer>
 							</dict>
 							<key>podcast_files/tag-lego.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								o1rhxuVh8din
-								lZ9CYPGSrA==
+								B5G6D6yip1rw
+								jT/ccxgsQA==
 								</data>
 								<key>Size</key>
-								<integer>26526</integer>
+								<integer>26549</integer>
 							</dict>
 							<key>podcast_files/tag-lets-rip-it-a-new-one.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								6OISkTY8xYHs
-								nzJJVPvOqg==
+								VfTRMBAZaxFY
+								Q9xY6/6VgA==
 								</data>
 								<key>Size</key>
-								<integer>18863</integer>
+								<integer>18776</integer>
 							</dict>
 							<key>podcast_files/tag-mark-hamill.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								T4+zRy6qJxYI
-								24cS1qCr0Q==
+								pIcSIHxBZNf3
+								ILsBQmhrig==
 								</data>
 								<key>Size</key>
-								<integer>21386</integer>
+								<integer>21460</integer>
 							</dict>
 							<key>podcast_files/tag-mike-mann.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Lh1KDGlJ3Brw
-								MhH0QWV9UA==
+								EL0OvcpsTRVT
+								T+zycW/oaA==
 								</data>
 								<key>Size</key>
-								<integer>17820</integer>
+								<integer>17779</integer>
 							</dict>
 							<key>podcast_files/tag-millennium-falcon.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								QiMmshuFAYcA
-								RjsyyHL/JA==
+								lpPILpEgmLaN
+								nLf76whhIg==
 								</data>
 								<key>Size</key>
-								<integer>19618</integer>
+								<integer>19349</integer>
 							</dict>
 							<key>podcast_files/tag-movies.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								vgfKRNgi9uyi
-								6tG+op/3/g==
+								WUv8//8il6jG
+								Omks+Qbahg==
 								</data>
 								<key>Size</key>
-								<integer>24408</integer>
+								<integer>24290</integer>
 							</dict>
 							<key>podcast_files/tag-news-of-the-galaxy.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								h8jo4BtnE5EA
-								YsBoPe+lbA==
+								9PxiREb3fVU4
+								cFiLLahjXQ==
 								</data>
 								<key>Size</key>
-								<integer>53960</integer>
+								<integer>57153</integer>
 							</dict>
 							<key>podcast_files/tag-news.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								XzqSrXu4F/zp
-								9MSGMEHV9A==
+								vig3xktY3xoA
+								IOkDuqEOnw==
 								</data>
 								<key>Size</key>
-								<integer>24746</integer>
+								<integer>24426</integer>
 							</dict>
 							<key>podcast_files/tag-original.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								kgxmpMi5x2ts
-								caWIdzP6iA==
+								tb8U/NtJYD4g
+								GB+gz2pxjA==
 								</data>
 								<key>Size</key>
-								<integer>44405</integer>
+								<integer>47701</integer>
 							</dict>
 							<key>podcast_files/tag-palpatine.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								Sbov0vp2sxoD
-								JqVKsBmSOA==
+								2e+Tybc2xWtM
+								AL6nozlYwQ==
 								</data>
 								<key>Size</key>
-								<integer>24756</integer>
+								<integer>24436</integer>
 							</dict>
 							<key>podcast_files/tag-podcast.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								kE3B5/M7vt5o
-								N9jBN2FzJA==
+								S/q82TyiuTyG
+								43nKepEFtg==
 								</data>
 								<key>Size</key>
-								<integer>57352</integer>
+								<integer>60504</integer>
 							</dict>
 							<key>podcast_files/tag-princess-leia.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								XK1DTBDKRc3p
-								C7Y/6qdL9Q==
+								fphrAdft4X2b
+								89c1DpzaNg==
 								</data>
 								<key>Size</key>
-								<integer>16715</integer>
+								<integer>16685</integer>
 							</dict>
 							<key>podcast_files/tag-princess.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								euP5Me7t6m7P
-								KMVmrkBJ+w==
+								7ymDjOO06pqq
+								QP9uRUEOaQ==
 								</data>
 								<key>Size</key>
-								<integer>17818</integer>
+								<integer>17777</integer>
 							</dict>
 							<key>podcast_files/tag-r2d2.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								NjEaOsTMTMJm
-								RAXs/NDD0Q==
+								QYhPwER7nTwj
+								xVfRh64vEQ==
 								</data>
 								<key>Size</key>
-								<integer>21372</integer>
+								<integer>21446</integer>
 							</dict>
 							<key>podcast_files/tag-rebels.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								nGIXJdgmPlIi
-								srnRTkc7zg==
+								Jxjxs0uz0bq8
+								4OkHfaPH7g==
 								</data>
 								<key>Size</key>
-								<integer>20168</integer>
+								<integer>20126</integer>
 							</dict>
 							<key>podcast_files/tag-rogue-one.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								ShPT9HaO5dcn
-								BYMiBmXnrQ==
+								aiG3ZdScs6yl
+								dT6pChdLVA==
 								</data>
 								<key>Size</key>
-								<integer>24849</integer>
+								<integer>24911</integer>
 							</dict>
 							<key>podcast_files/tag-rouge-one.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								GWMS8puuqAbb
-								+2g3Z3MOsg==
+								QRpqnguz2hpr
+								Mj6ReDVlAw==
 								</data>
 								<key>Size</key>
-								<integer>17438</integer>
+								<integer>17246</integer>
 							</dict>
 							<key>podcast_files/tag-shenanigans.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								wtKXpyebR9Eb
-								P1JPt69tYg==
+								dqkf08JwjcSE
+								Q7rJbckvcQ==
 								</data>
 								<key>Size</key>
-								<integer>17824</integer>
+								<integer>17783</integer>
 							</dict>
 							<key>podcast_files/tag-star-wars.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								h0d09+xmFBQm
-								thicW5bwHw==
+								9lfaBtIujKsP
+								y21dYj6c6A==
 								</data>
 								<key>Size</key>
-								<integer>83181</integer>
+								<integer>85710</integer>
 							</dict>
 							<key>podcast_files/tag-trilogy.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								2ef5WZyFNJg8
-								p/UC4vwhXw==
+								9/4NhFdOlQj3
+								9HJx2eziSA==
 								</data>
 								<key>Size</key>
-								<integer>44403</integer>
+								<integer>44236</integer>
 							</dict>
 							<key>podcast_files/tag-wookie.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								wX7YFxaUmPWh
-								AT3Rn8aCmw==
+								qse4mbdvs7Ta
+								K0v4Ahmaww==
 								</data>
 								<key>Size</key>
-								<integer>16988</integer>
+								<integer>16873</integer>
 							</dict>
 							<key>podcast_files/tag-yoda.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								1qJG89zJHH1o
-								qT+ok+pmew==
+								t8ssGJR1B9ah
+								7TZjYCaJcQ==
 								</data>
 								<key>Size</key>
-								<integer>19550</integer>
+								<integer>19499</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
