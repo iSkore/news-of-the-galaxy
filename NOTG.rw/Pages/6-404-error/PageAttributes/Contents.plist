@@ -94,7 +94,9 @@
 				<string>utf-8</string>
 			</dict>
 			<key>Files</key>
-			<array/>
+			<array>
+				<string>Sidebar.as</string>
+			</array>
 			<key>Subsandwiches</key>
 			<array/>
 		</dict>

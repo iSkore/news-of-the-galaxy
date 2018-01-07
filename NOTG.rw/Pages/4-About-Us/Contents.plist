@@ -12,30 +12,30 @@
 				<key>BrowserTitle</key>
 				<string>About Us</string>
 				<key>CreatedDate</key>
-				<date>2017-03-24T15:55:23Z</date>
+				<date>2018-01-07T00:28:21Z</date>
 				<key>ID</key>
-				<string>page6</string>
+				<string>page4</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
 				<string>About Us</string>
 				<key>PluginClassName</key>
-				<string>RWHTMLPlugin</string>
+				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
-					<string>Realmac Software</string>
+					<string>YourHead Software</string>
 					<key>Name</key>
-					<string>HTML Code</string>
+					<string>Stacks</string>
 					<key>Version</key>
-					<string>7.0</string>
+					<string>3.5.5</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>file:///Users/codebuddha/GitHub/news-of-the-galaxy/www/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-01-06T23:27:03Z</date>
+						<date>2018-01-07T00:44:10Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,15 +44,35 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								hNV4gkpOWrbX
-								GZP6SF7V8A==
+								7oNP/MvAiZXL
+								f5ZleWulPg==
 								</data>
 								<key>Size</key>
-								<integer>11042</integer>
+								<integer>11555</integer>
+							</dict>
+							<key>about_files/stacks_page_page4.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								NXxqoaedRwfK
+								JcBOPVrBOA==
+								</data>
+								<key>Size</key>
+								<integer>11</integer>
+							</dict>
+							<key>about_files/stacks_page_page4.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								/sVCkdFW9q/I
+								jsYQMInoDw==
+								</data>
+								<key>Size</key>
+								<integer>17</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page6</string>
+						<string>page4</string>
 						<key>SiteRoot</key>
 						<string></string>
 						<key>Version</key>
