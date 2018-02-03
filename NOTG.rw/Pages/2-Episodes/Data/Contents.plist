@@ -121,6 +121,63 @@
 							<integer>5</integer>
 						</array>
 						<key>CustomPermalinkFilename</key>
+						<string>Give-the-Money-to-the-Porg-Wrangler</string>
+						<key>GUID</key>
+						<string>d0fa28dd1250c268ad0210f6b1aefe68</string>
+						<key>ID</key>
+						<integer>42</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast John Williams porg Canto Bight asteroid field darth vader 21st Century Fox</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this new year episode of News of the Galaxy the group kicks back and doesn't relax as they record a really weird and wild episode were Elna introduces here new segment and professionalism, Connor explores his new job as top porg wrangler, Nick edits out some puffins, Jody tends a fake bar, George Lucas escapes in his jetpack, Elna Boba fangirls out and buys the collection, Connor gets mad at an old man, Nick does not talk about knights of the old republic, and Jody gets served up some sweet revenge. All that and a great fan letter that will live on in the hearts and minds of podcasts are what you have to look forward to in this episode of the only podcast where all their members are in different places including one of them recording for a basement closet.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>151284096</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_20.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2018-01-03T17:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>John Williams</string>
+							<string>porg</string>
+							<string>Canto Bight</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+							<string>21st Century Fox</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 20: Give the Money to the Porg Wrangler</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
 						<string>Theres-Indoor-and-Outdoor</string>
 						<key>GUID</key>
 						<string>0c578a0186c39aae13ded4015f3df80d</string>
@@ -1175,9 +1232,9 @@ This episode was recorded sometime around 7/30/16.</string>
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<true/>
 				<key>LastBuildDate</key>
-				<date>2007-06-29T18:43:26Z</date>
+				<date>2018-02-03T15:50:49Z</date>
 				<key>LastID</key>
-				<integer>42</integer>
+				<integer>43</integer>
 				<key>LastSavedBuildDate</key>
 				<date>2007-06-29T18:43:26Z</date>
 				<key>LocaliseDate</key>
@@ -1263,6 +1320,8 @@ This episode was recorded sometime around 7/30/16.</string>
 				<string>17-Summary.as</string>
 				<string>18-Body.as</string>
 				<string>18-Summary.as</string>
+				<string>19-Body.as</string>
+				<string>19-Summary.as</string>
 				<string>DefaultITunesImage.data</string>
 			</array>
 			<key>Subsandwiches</key>
