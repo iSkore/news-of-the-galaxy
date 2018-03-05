@@ -121,6 +121,122 @@
 							<integer>5</integer>
 						</array>
 						<key>CustomPermalinkFilename</key>
+						<string>Polishing-Lukes-Lightsaber</string>
+						<key>GUID</key>
+						<string>79d59812017c745f09e041af2092f324</string>
+						<key>ID</key>
+						<integer>44</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast John Williams porg snoke Canto Bight asteroid field darth vader 21st Century Fox</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>Welcome to the Valentine's day episode of News of the Galaxy podcast. On this, episode 22, Connor battles his most hated nemesis, Jody is called a bad boy type, Nick receives charges for his part in "Death Star Gate", Elna finds the last piece of the puzzle, Connor recreates Seven Samurai but he's the only one defending the village this time, Jody wants an arm chair, Nick does not have tacos for the third time, and Elna is now a Ninja Turtle. All that nonsense and more on this crazy episode of the podcast that you love even when it's just four idiots making Porg sounds.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>143740224</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_20.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2018-02-14T17:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>John Williams</string>
+							<string>porg</string>
+							<string>snoke</string>
+							<string>Canto Bight</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+							<string>21st Century Fox</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 22: Polishing Luke's Lightsaber</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
+						<string>Snackbar</string>
+						<key>GUID</key>
+						<string>948f1fd81d87df1e59e0a23bb4b8fd59</string>
+						<key>ID</key>
+						<integer>43</integer>
+						<key>ITunesCustomTags</key>
+						<dict>
+							<key>Author</key>
+							<string>Connor Daniels</string>
+							<key>Category</key>
+							<string>TV &amp; Film</string>
+							<key>Keywords</key>
+							<string>news of the galaxy last jedi star wars episode podcast John Williams porg snoke Canto Bight asteroid field darth vader 21st Century Fox</string>
+							<key>Subtitle</key>
+							<string>A Star Wars Podcast</string>
+							<key>Summary</key>
+							<string>On this two part episode of News of the Galaxy podcast the gang finally talks about The Last Jedi. Elna talks new comics, Nicks computer battery dies, Jody talks harry boots, Connor hates the mortis arc, Elna and Connor make prog sounds, Jody gets the go ahead on his new project, and Nick eats well podcasting. All that and much more on this extra special episode of your favorite podcast. Also sorry about the haft show we are working on it now and it will not happen again.</string>
+						</dict>
+						<key>PodcastOverride</key>
+						<dict>
+							<key>override</key>
+							<true/>
+							<key>size</key>
+							<real>103832640</real>
+							<key>type</key>
+							<string>audio/mpeg</string>
+							<key>url</key>
+							<string>http://podcasts.newsofthegalaxy.com/episode_21.mp3</string>
+						</dict>
+						<key>Posted</key>
+						<date>2018-01-31T17:00:00Z</date>
+						<key>PublishStatus</key>
+						<integer>1</integer>
+						<key>Tags</key>
+						<array>
+							<string>news of the galaxy</string>
+							<string>last jedi</string>
+							<string>star wars</string>
+							<string>episode</string>
+							<string>podcast</string>
+							<string>John Williams</string>
+							<string>porg</string>
+							<string>snoke</string>
+							<string>Canto Bight</string>
+							<string>asteroid field</string>
+							<string>darth vader</string>
+							<string>21st Century Fox</string>
+						</array>
+						<key>Title</key>
+						<string>Episode 21: Snackbar</string>
+					</dict>
+					<dict>
+						<key>CategoryIDs</key>
+						<array>
+							<integer>3</integer>
+							<integer>5</integer>
+						</array>
+						<key>CustomPermalinkFilename</key>
 						<string>Give-the-Money-to-the-Porg-Wrangler</string>
 						<key>GUID</key>
 						<string>d0fa28dd1250c268ad0210f6b1aefe68</string>
@@ -1232,9 +1348,9 @@ This episode was recorded sometime around 7/30/16.</string>
 				<key>GenerateRSSEntriesForMainPageOnly</key>
 				<true/>
 				<key>LastBuildDate</key>
-				<date>2007-06-29T18:43:26Z</date>
+				<date>2018-03-05T22:22:43Z</date>
 				<key>LastID</key>
-				<integer>43</integer>
+				<integer>45</integer>
 				<key>LastSavedBuildDate</key>
 				<date>2007-06-29T18:43:26Z</date>
 				<key>LocaliseDate</key>
@@ -1322,6 +1438,10 @@ This episode was recorded sometime around 7/30/16.</string>
 				<string>18-Summary.as</string>
 				<string>19-Body.as</string>
 				<string>19-Summary.as</string>
+				<string>20-Body.as</string>
+				<string>20-Summary.as</string>
+				<string>21-Body.as</string>
+				<string>21-Summary.as</string>
 				<string>DefaultITunesImage.data</string>
 			</array>
 			<key>Subsandwiches</key>

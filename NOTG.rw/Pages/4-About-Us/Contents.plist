@@ -28,14 +28,14 @@
 					<key>Name</key>
 					<string>Stacks</string>
 					<key>Version</key>
-					<string>3.5.7</string>
+					<string>3.5.8</string>
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
 					<key>file:///Users/codebuddha/GitHub/news-of-the-galaxy/www/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2018-01-07T00:44:10Z</date>
+						<date>2018-03-05T22:22:48Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -44,8 +44,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								7oNP/MvAiZXL
-								f5ZleWulPg==
+								IzgdNS3iWecL
+								SZG1Aq+rgQ==
 								</data>
 								<key>Size</key>
 								<integer>11555</integer>
