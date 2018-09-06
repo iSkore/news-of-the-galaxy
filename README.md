@@ -68,3 +68,4 @@ News of the Galaxy is a Star Wars podcast
 
       News of the Galaxy, a Star Wars Podcast, is a fan based Podcast out of Seattle, Washington and Washington, D.C.
       connor
+i love nick for makiking me do this
